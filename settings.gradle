@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "BITF17A560_MC01"
