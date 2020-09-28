@@ -91,4 +91,13 @@
         app:layout_constraintStart_toEndOf="@+id/editTextTextPersonName2"
         app:layout_constraintTop_toTopOf="parent"
         tools:srcCompat="@tools:sample/avatars" />
+
+    <FrameLayout
+        android:layout_width="409dp"
+        android:layout_height="125dp"
+        android:visibility="invisible"
+        tools:layout_editor_absoluteX="1dp"
+        tools:layout_editor_absoluteY="2dp">
+
+    </FrameLayout>
 </androidx.constraintlayout.widget.ConstraintLayout>
